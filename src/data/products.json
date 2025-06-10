@@ -1,0 +1,22 @@
+[
+  {
+    "id": "b54d0ffc-a79f-481d-bb5f-383a951b96db",
+    "name": "pc",
+    "description": "azertyuioplkjhgf",
+    "price": 0.5,
+    "imageUrl": "/uploads/50f2888a68db5c443ed3486ba2007bc9.jpg",
+    "stock": 20,
+    "createdAt": "2025-05-06T13:08:43.170Z",
+    "updatedAt": "2025-05-08T08:33:02.337Z"
+  },
+  {
+    "id": "e88ef578-f85e-4760-af6e-7f808f825acf",
+    "name": "thrte",
+    "description": "hgfdsqdfghj",
+    "price": 2500,
+    "imageUrl": "/uploads/1887bb80c31b5fe1d8b59ddb5d62f649.png",
+    "stock": 56,
+    "createdAt": "2025-05-06T13:21:03.078Z",
+    "updatedAt": "2025-05-08T08:39:29.272Z"
+  }
+]
